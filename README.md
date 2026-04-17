@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 Final Year B.Tech CSE (AI & Data Science) Student  
-📊 Currently working as a **Data Analyst Intern at OZIBOOK**  
+📊  worked as a **Data Analyst Intern at OZIBOOK and EXCELERATE**  
 💡 Interested in **Data Science, AI, Machine Learning, and Software Development**
 
 ## 🌐 Socials:
